@@ -1,0 +1,27 @@
+fastapi[standard]
+uvicorn
+python-multipart
+
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-chroma
+
+# Embeddings + Vector DB
+sentence-transformers
+faiss-cpu
+
+# PDF
+pypdf
+PyPDF2
+
+# Environment
+python-dotenv
+pydantic-settings
+
+# Streamlit UI
+streamlit
+requests
